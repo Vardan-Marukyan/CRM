@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Jost';
+    src: url('jost300light-webfont.woff2') format('woff2'),
+         url('jost300light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
